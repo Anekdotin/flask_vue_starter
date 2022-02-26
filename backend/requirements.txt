@@ -1,0 +1,13 @@
+flask
+flask_sqlalchemy
+sqlalchemy
+psycopg2-binary
+flask-wtf
+gunicorn
+flask-login
+flask-moment
+flask_mail
+python-dotenv
+flask-bcrypt
+flask-cors
+marshmallow-sqlalchemy

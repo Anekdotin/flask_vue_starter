@@ -1,0 +1,44 @@
+{
+	"folders": [{
+			"path": "/path/to/folder/project_start/backend"
+		},
+		{
+			"path": "/path/to/folder/project_start/frontend"
+		},
+		{
+			"path": "/path/to/folder/project_start/config"
+		},
+
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "starter",
+		"editor.parameterHints.enabled": true
+	},
+	"files.associations": {
+		"*.html": "jinja-html"
+	},
+	"extensions": {
+		"recommendations": [
+			"aaron-bond.better-comments",
+			"samuelcolvin.jinjahtml",
+			"wholroyd.jinja",
+			"ms-vscode-remote.remote-ssh",
+			"vscode-icons-team.vscode-icons",
+			"hookyqr.beautify",
+			"russelldavis.better-pageup-pagedown",
+			"monosans.djlint",
+			"sleistner.vscode-fileutils",
+			"ms-python.python",
+			"kevinrose.vsc-python-indent",
+			"mhutchie.git-graph",
+			"ecmel.vscode-html-css",
+			"zignd.html-css-class-completion",
+			"ms-python.vscode-pylance",
+			"icao.electron-vue",
+			"kuscamara.electron",
+			"coenraads.bracket-pair-colorizer-2",
+			"jcbuisson.vue",
+			"hollowtree.vue-snippets"
+		]
+	},
+}
