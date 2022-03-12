@@ -1,12 +1,12 @@
 {
 	"folders": [{
-			"path": "/path/to/folder/project_start/backend"
+			"path": "/home/droid/gitbox/project_start/backend"
 		},
 		{
-			"path": "/path/to/folder/project_start/frontend"
+			"path": "/home/droid/gitbox/project_start/frontend"
 		},
 		{
-			"path": "/path/to/folder/project_start/config"
+			"path": "/home/droid/gitbox/project_start/config"
 		},
 
 	],
@@ -20,8 +20,6 @@
 	"extensions": {
 		"recommendations": [
 			"aaron-bond.better-comments",
-			"samuelcolvin.jinjahtml",
-			"wholroyd.jinja",
 			"ms-vscode-remote.remote-ssh",
 			"vscode-icons-team.vscode-icons",
 			"hookyqr.beautify",

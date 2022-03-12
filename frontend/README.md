@@ -1,37 +1,15 @@
-# Quasar App (frontend)
+# Vue 3 + Typescript + Vite
 
-A Quasar Framework app
+## Install
+ nvm ls-remote
+nvm install vx.x.x.
+npm create vite@latest
+-y typescript
 
-## Install the dependencies
+vue add tailwind
 
-```bash
-npm install
-```
+## Recommended IDE Setup
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
+- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
-```bash
-quasar dev
-```
-
-### Lint the files
-
-```bash
-npm run lint
-```
-
-### Format the files
-
-```bash
-npm run format
-```
-
-### Build the app for production
-
-```bash
-quasar build
-```
-
-### Customize the configuration
-
-See [Configuring quasar.conf.js](https://quasar.dev/quasar-cli/quasar-conf-js).
+## Type Support For `.vue` Imports in TS
